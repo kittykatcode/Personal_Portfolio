@@ -6,10 +6,10 @@ st.set_page_config(layout='wide')
 col1,col2 = st.columns(2)
 
 with col1:
-    st.image('images/me.png', width= 400)
+    st.image('images/cat_table.png', width= 400)
 
 with col2:
-    st.title('What is Love?')
+    st.title('Kitty Kat?')
     content =''' Love can be crazy but can never be easy it will test us from time to time. 
     It doesnt matter who we are with but , how nice the person is Love will find the ways to test it.
     because not everyone gets this change to love someone there whole life.'''
